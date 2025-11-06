@@ -71,3 +71,8 @@ We help companies establish their presence in knowledge graphs so AI tools can d
 
 Audit reports: CC BY 4.0 (Anyone can share, adapt, and use commercially with attribution to Ontologue)  
 Tool code: Private (not in this repo)
+
+
+## Audits
+
+- [Éditions Localement Transcendantes](audits/ditions-localement-transcendantes.md) - https://localement-transcendantes.fr - 2025-11-06
