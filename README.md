@@ -75,4 +75,6 @@ Tool code: Private (not in this repo)
 
 ## Audits
 
+- [Firestitch](audits/firestitch.md) - https://firestitch.com - 2025-11-06
+
 - [Éditions Localement Transcendantes](audits/ditions-localement-transcendantes.md) - https://localement-transcendantes.fr - 2025-11-06
