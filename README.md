@@ -75,6 +75,8 @@ Tool code: Private (not in this repo)
 
 ## Audits
 
+- [ZANEFFI](audits/zaneffi.md) - https://zaneffi.com/ - 2025-11-26
+
 - [Jolitoit Provence](audits/jolitoit-provence.md) - https://jolitoit-provence.fr/ - 2025-11-06
 
 - [Firestitch](audits/firestitch.md) - https://firestitch.com - 2025-11-06
